@@ -9,5 +9,8 @@
 ### 🪟Arayüz
 ![image](https://github.com/user-attachments/assets/db4caa28-dfec-4533-b887-34a09818b204)
 ### 🔎3.Proje: PostgreSQL(İlişkisel)
-* 
-### 🪟Arayüz
+* Bu proje, çalışan ve departman yönetimi için geliştirilen basit bir Windows Forms uygulamasıdır. Uygulama, ilişkisel bir yapıya sahip iki modülden oluşmaktadır: departman yönetimi ve çalışan yönetimi. Her çalışan bir departmana atanmıştır. Departman yönetimi modülünde departmanların listelenmesi, eklenmesi, güncellenmesi, silinmesi ve ID'ye göre getirme işlemleri yapılır. Çalışan yönetimi modülünde çalışanların listelenmesi, eklenmesi, güncellenmesi, silinmesi ve ID'ye göre getirme işlemler gerçekleştirilir. Kullanıcı, çalışan eklerken ilgili departmanı seçebilir ve bu departman bilgisi çalışan tablosuyla ilişkilendirilir. Veritabanı bağlantısı, NpgsqlConnection sınıfı ile sağlanmış ve SQL komutları aracılığıyla veri manipülasyonu yapılmıştır.
+### 🪟Departman
+![image](https://github.com/user-attachments/assets/c9e25080-6679-46e4-a645-2c6363bdf001)
+### 🪟Çalışan
+![image](https://github.com/user-attachments/assets/3d8bc15b-d323-4576-be89-95cc1f6473ef)
